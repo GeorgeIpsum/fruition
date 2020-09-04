@@ -46,7 +46,7 @@
     "electron-builder": "^21.2.0",
     "electron-devtools-installer": "^2.2.4",
     "gh-pages": "^2.1.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react-dev-utils": "^9.0.3",
     "source-map-explorer": "^2.0.1",
     "version-bump-prompt": "^5.0.4",
